@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AmbevTech
-- 🌱 I’m currently learning .netCore, Graphql, reactJs
+- 🔭 I’m currently working on MercadoLibre
+- 🌱 I’m currently learning .netCore, golang
 - 👯 I’m looking to collaborate on whatever project
 - 📫 How to reach me: lampada@gmail.com
 - ⚡ Fun fact: I love ☕, 🍻, 🎮
